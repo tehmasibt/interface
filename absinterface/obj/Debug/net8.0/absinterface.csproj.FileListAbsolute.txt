@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\İş masası\Interface\absinterface\absinterface\bin\Debug\net8.0\absinterface.exe
+C:\Users\User\OneDrive\İş masası\Interface\absinterface\absinterface\bin\Debug\net8.0\absinterface.deps.json
+C:\Users\User\OneDrive\İş masası\Interface\absinterface\absinterface\bin\Debug\net8.0\absinterface.runtimeconfig.json
+C:\Users\User\OneDrive\İş masası\Interface\absinterface\absinterface\bin\Debug\net8.0\absinterface.dll
+C:\Users\User\OneDrive\İş masası\Interface\absinterface\absinterface\bin\Debug\net8.0\absinterface.pdb
+C:\Users\User\OneDrive\İş masası\Interface\absinterface\absinterface\obj\Debug\net8.0\absinterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\İş masası\Interface\absinterface\absinterface\obj\Debug\net8.0\absinterface.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\İş masası\Interface\absinterface\absinterface\obj\Debug\net8.0\absinterface.AssemblyInfo.cs
+C:\Users\User\OneDrive\İş masası\Interface\absinterface\absinterface\obj\Debug\net8.0\absinterface.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\İş masası\Interface\absinterface\absinterface\obj\Debug\net8.0\absinterface.dll
+C:\Users\User\OneDrive\İş masası\Interface\absinterface\absinterface\obj\Debug\net8.0\refint\absinterface.dll
+C:\Users\User\OneDrive\İş masası\Interface\absinterface\absinterface\obj\Debug\net8.0\absinterface.pdb
+C:\Users\User\OneDrive\İş masası\Interface\absinterface\absinterface\obj\Debug\net8.0\absinterface.genruntimeconfig.cache
+C:\Users\User\OneDrive\İş masası\Interface\absinterface\absinterface\obj\Debug\net8.0\ref\absinterface.dll
